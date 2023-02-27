@@ -5,3 +5,4 @@ library(readr)
 library(CoordinateCleaner)
 library(tidyr)
 
+my-data<- read_csv("data/data.csv")
